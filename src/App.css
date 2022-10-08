@@ -1,0 +1,15 @@
+body {
+	min-width: 1225px;
+	min-height: 600px;
+}
+
+.App {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 1225px;
+	min-height: 600px;
+	overflow: scroll;
+	height: 600px;
+	background-color: gray;
+}
